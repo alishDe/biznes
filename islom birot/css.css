@@ -1,0 +1,105 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+     margin: 60px;
+     border: 2px solid black;
+     height: 903px;
+     background-image: linear-gradient(to right,  aliceblue, black);
+     width:1700px ;
+     display: block;
+     position: relative;
+     left: 50px;
+
+}
+.box-img__fon{
+    border-radius: 5px;
+    width: 850px;
+    position: relative;
+    top: 100px;
+    left: 30px;
+    height: 800px;
+    display: inline ;
+}
+.h1{
+    position: relative;
+    bottom: 790px;
+    font-size: 60px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.726);
+}
+.p-tex{
+    color: aliceblue;
+    text-align: end;
+    position: relative;
+    bottom: 780px;
+    font-size: 55px;
+    font-weight: 900px;
+right: 200px;    
+}
+.texone{
+    position: relative;
+    left: 900px;
+    color: aliceblue    ;
+}
+.box1-li{
+    font-size: 60px;
+    position: relative;
+    bottom: 750px;
+    text-align: end;
+    color: aliceblue;
+    right: 300px;
+    list-style: none;
+}
+
+.input{
+   
+position: relative;
+bottom: 700px;
+width: 350px;
+height: 40px;
+left: 1100px;
+font-size: 20px;
+}
+.inpu{
+    position: relative;
+    bottom: 600px;
+    width: 350px;
+    height: 40px;
+    left: 746px;
+    font-size: 20px;
+}
+.inp{
+    position: relative;
+    bottom: 500px;
+    width: 350px;
+    height: 40px;
+    left: 395px;
+    font-size: 20px;
+}
+.jonatish{
+    border: 2px solid black;
+    padding: 5px;
+    background-color: black;
+    color: aliceblue;
+    position: relative;
+    bottom: 450px;
+ width: 200px;
+ left: 650px;   
+ text-align: center;
+ background-image: linear-gradient(to right,  aliceblue, black);
+ font-size: 30px;
+ border-radius: 20px;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-image: linear-gradient(to right, black,  aliceblue);
+}
+.jonatish:hover{
+    transform: 3s;
+    background-image: linear-gradient(to right, black,  aliceblue);
+}
